@@ -91,7 +91,7 @@ Example of a Game Status object:
 
 ### Instructions
 
-The API was developed as a self contained application that can be deployed to a container or executed localy.
+The API was developed as a self contained application that can be deployed to a container or executed locally.
 The Maven build will create a Jar file. To run the application just use java -jar command on mastermind-api-0.0.1-SNAPSHOT.jar.
 
 ### Final Considerations
