@@ -90,7 +90,16 @@ Example of a Game Status object:
 }  
 
 
+### Final Considerations
 
+1. What was the hardest part?    
 
+The hardest part for me was to manage the time to finish everything I had planed. I wanted my solution to be professional and truly functional, in the sense that you can really play.  
 
+2. If you could go back and give yourself advice at the beginning of the project, what would it be?  
 
+Try to find a team way before the event date and start planning really early.  
+
+3. If you could change something about this challenge, what would it be?   
+
+I think the multiplayer game play could be a little bit better explained.  
